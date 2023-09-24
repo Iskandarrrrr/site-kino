@@ -1,0 +1,11 @@
+.block_main{
+    /* background: url(../images/Zal_kino.jpg) no-repeat; */
+    background: url(../images/Zal_kino.jpg) no-repeat;
+    background-size: cover;
+    min-height: 1000px;
+}
+
+
+textarea{
+margin-top: 10px;
+}
